@@ -1,0 +1,8 @@
+make sure all the packages are alright
+
+for frontend i used a template from a web
+
+run app.py
+
+linux = python3 app.py
+windows = py app.py
